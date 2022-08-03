@@ -1,0 +1,29 @@
+@import url(navegacao.css);
+@import url(sobre.css);
+@import url(vagas.css);
+@import url(design-desenvolvedor.css);
+@import url(comentarios.css);
+@import url(rodape.css);
+
+:root {
+    --vermelho: #8E2424;
+    --azul-texto: #101828;
+    --cinza-texto: #667085;
+    --cinza-texto-logo: #3A404E;
+    --degrade-fundo:linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c44e 100%);
+
+    --degrade-fundo-transparente: #8e24241c;
+
+    --degrade-cinza:linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    --branco: #FFF;
+
+    --fonte: 'Inter', sans-serif;
+
+}
+
+body {
+    font-family: var(--fonte);
+    font-size: 16px;
+    color: var(--cinza-texto);
+}
+

@@ -1,0 +1,45 @@
+.vagas__textos {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    text-align: center;
+    padding: 1em;
+}
+
+.vagas__titulo {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.vagas__titulo-secundario {
+    color: var(--azul-texto);
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.vagas__paragrafo {
+    font-size:  1.25em;
+}
+
+.imagem-pessoas {
+    display: none;
+}
+
+@media screen and (min-width:768px) {
+    .imagem-ilustracao {
+        padding: 1em 10em;
+    }
+
+}
+
+@media screen and (min-width:1280px) {
+    .imagem-ilustracao {
+        display: none;
+    }
+
+    .imagem-pessoas {
+        display: block;
+        margin: 0 auto;
+        padding: 2em;
+    }
+}
