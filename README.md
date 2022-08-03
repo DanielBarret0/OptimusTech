@@ -3,15 +3,15 @@
 
 Tenho 22 anos sou de Aracaju/Sergipe e estou em constante evolução na minha carreira Frontend. Busco sempre praticar aquilo que aprendo em cursos e demonstro isso com alguns projetos no meu repositório no github.
 
-# OptimusTech - Projeto feito com layout 7 Days of Code da Alura
+# OptimusTech - Projeto feito com layout da 7 Days of Code da Alura
 
-Essa é um site do grupo de TI para contratar novas pessoas para empresa OptimusTech. O 7 Days of Code é um iniciativa da escola de tecnologia da Alura onde recebemos um layout do figma e temos que fazer o projeto por nossa conta. 
+Essa é um site do grupo de TI para contratar novas pessoas para empresa OptimusTech. O 7 Days of Code é uma iniciativa da escola de tecnologia da Alura onde recebemos um layout do figma e temos que fazer o projeto por nossa conta.
 
 ## Aprendizados
 
-Nesse projeto o layout recebido no Figma era somente de uma tela para Desktop então tive a inciativa de fazer meu proprio layout responsivo com dedicado para dispositivos mobile e tablet onde tomei algumas algumas decisoes quanto ao design baseado em cohecimentos de outros projetos, mudando pouca barra de navegaçào conteudo dentro do site e imagens.
+Nesse projeto o layout recebido no Figma era somente de uma tela para Desktop então tive a iniciativa de fazer o meu próprio layout responsivo com dedicado para dispositivos mobile e tablet onde tomei algumas decisões quanto ao design baseado em conhecimentos de outros projetos, mudando pouca barra de navegação e conteúdo no site e imagens.
 
-Usei nesse site tambem uma biblioteca chamada SwiperJS onde temos um caixa de rolagem nesse projeto usei na seção de comentarios onde no projeto orignal tinhamos somente uma mensagem estatica como mostra print abaixa:
+Usei nesse site também uma biblioteca chamada SwiperJS onde temos um caixa de rolagem nesse projeto usei na seção de comentários onde no projeto original tinhamos somente uma mensagem estática como mostra print abaixo:
 
 <img align="center" src="https://github.com/DanielBarret0/OptimusTech/blob/main/printscreen/image.png">
 
