@@ -8,7 +8,11 @@
 | -------------  | --- |
 | ✨: Nome        | OptimusTec
 | 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  | 🎇: Bibliotecas | [StorySet](https://storyset.com/), [SwiperJS](https://swiperjs.com/).
 | 🚀: URL         | [OptimusTec](https://optimus-tec.bohr.io)
+| 🔥 Desafio     | [Conheça o 7 Days of Code Alura](https://7daysofcode.io/)
+| :laughing: Extras feito     | **SwiperJS, Adição de algumas imagens**
+
 
 
 # 🖼️ Banner do VitrineDev
