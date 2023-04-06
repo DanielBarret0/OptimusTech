@@ -1,7 +1,21 @@
+<div align="center">
+<img align="center" src="">
+</div>
 
-# Olá, eu sou o Daniel Barreto! 👋
+# 🗒️ Sobre o projeto
 
-Tenho 22 anos sou de Aracaju/Sergipe e estou em constante evolução na minha carreira Frontend. Busco sempre praticar aquilo que aprendo em cursos e demonstro isso com alguns projetos no meu repositório no github.
+| 🪧 Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)   |
+| -------------  | --- |
+| ✨: Nome        | OptimusTec
+| 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+| 🚀: URL         | [OptimusTec](https://optimus-tec.bohr.io)
+
+
+# 🖼️ Banner do VitrineDev
+<div align="center">
+
+<img src="#vitrinedev">
+</div>
 
 # OptimusTech - Projeto feito com layout da 7 Days of Code da Alura
 
