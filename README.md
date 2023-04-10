@@ -19,7 +19,7 @@
 # 🖼️ Banner do VitrineDev
 <div align="center">
 
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/OptimusTech/blob/main/printscreen/Desktop-OptimusTech.gif#vitrinedev">
 </div>
 
 # OptimusTech - Projeto feito com layout da 7 Days of Code da Alura
