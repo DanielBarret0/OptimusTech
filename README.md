@@ -12,6 +12,7 @@
 | 🚀: URL         | [OptimusTec](https://optimus-tec.bohr.io)
 | 🔥 Desafio     | [Conheça o 7 Days of Code Alura](https://7daysofcode.io/)
 | :laughing: Extras feito     | **SwiperJS, Adição de algumas imagens**
+| :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
 
 
 
@@ -33,16 +34,6 @@ Usei nesse site também uma biblioteca chamada SwiperJS onde temos um caixa de r
 
 <img align="center" src="https://github.com/DanielBarret0/OptimusTech/blob/main/printscreen/image.png">
 
-## Deploy
-
- Visite a página no Github Pages: [OptimusTech](https://danielbarret0.github.io/OptimusTech/)
-
-## Linguagens utilizadas
-  <div>
-  HTML <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-   CSS <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
 ## Demonstração
 
 ### Layout - Desktop
@@ -66,10 +57,4 @@ Usei nesse site também uma biblioteca chamada SwiperJS onde temos um caixa de r
   <a href="https://www.instagram.com/daniel.barret0/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/daniel.barret0/"/ target="_blank"></a>
 </p>  
-
-
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
